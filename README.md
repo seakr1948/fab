@@ -1,2 +1,2 @@
-# fab
+# School Management System
 Team project
